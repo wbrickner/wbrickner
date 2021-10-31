@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/2095902/139605438-8f8203f6-b5f5-462e-a5c6-e7cd864c290e.png)
+
 
 <!--
 **wbrickner/wbrickner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
